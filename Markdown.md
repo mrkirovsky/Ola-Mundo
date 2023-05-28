@@ -29,9 +29,13 @@ Num | Nome | Nota
 Terminou tabela
 
 Comandos:
+
 É só colocar entre crases. Também serve para trechos de programas:
+
 Não sei para que serve o comando 'markdow.get'
+
 Olha o meu programa em python:
+
 '''
 num=int(imput('Digite o valor')
 if num %% 2 = 0
