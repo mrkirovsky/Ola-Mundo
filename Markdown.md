@@ -19,6 +19,7 @@ Lista numerada:
  
  
 Imagens é só arrastar e colocar link, se quiser. Não fiz exemplo aqui.
+
 Tabela se faz da seguinte forma:
 Tabela:
 Num | Nome | Nota
