@@ -14,5 +14,5 @@ Lista numerada:
   * segundo subitem
  Lista de tarefas:
  Usa-se traço, espaço, colchete e fecha colchete. E para marcar depois, é só colocar um x.
- - {} fazer sei lá
- - {} fazer outra coisa
+ - [] fazer sei lá
+ - [] fazer outra coisa
