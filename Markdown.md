@@ -43,3 +43,6 @@ print(f' o valor {num} é par'
 else;
 print (f' o valor {num} é impar')
 ```
+Colocar emojis com dois pontos:
+✋
+🖖
